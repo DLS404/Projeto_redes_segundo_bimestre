@@ -24,6 +24,8 @@ DNS Local	Arquivo hosts do Windows
 Failover	JavaScript no cliente (failover.js)
 Gerenciamento de Senhas	Função nativa crypt() do PostgreSQL com salt
 Infraestrutura	3 instâncias independentes do mesmo servidor
+
+
 📁 Estrutura do Projeto
 📦 projeto
  ┣ 📂 public
@@ -208,10 +210,3 @@ Rodar servidor:
 
 node server.js
 
-🙌 Contribuições
-
-Sinta-se livre para abrir issues ou PRs.
-
-📜 Licença
-
-Este projeto pode usar a licença MIT ou outra de sua preferência.
