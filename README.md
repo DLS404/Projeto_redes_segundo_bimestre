@@ -27,14 +27,23 @@ Infraestrutura	3 instâncias independentes do mesmo servidor
 
 
 📁 Estrutura do Projeto
+
 📦 projeto
+
  ┣ 📂 public
+ 
  ┃ ┣ 📜 failover.js
+ 
  ┃ ┗ 📜 styles.css (opcional)
+ 
  ┣ 📜 server.js
+ 
  ┣ 📜 init_db.sql
+ 
  ┣ 📜 package.json
+ 
  ┗ 📜 README.md
+ 
 
 🗄️ Banco de Dados
 
